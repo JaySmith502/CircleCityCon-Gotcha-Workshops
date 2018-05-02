@@ -1,0 +1,21 @@
+In case you are unable to extract the .ovf (this is a finicky process for sure), here's a list of what we'll be needing for the workshop.
+
+1.  A Windows 7 Virtual Machine (you can get a 90 day trial .iso at modern.ie)
+2.  The following programs installed on your virtual machine, with appropriate paths lined up to execute in your Desktop
+    -PEStudio:                                                  https://winitor.com/binaries.html
+    -CFF Explorer (x86 Version, stand-alone, Zip Archive):      http://www.ntcore.com/exsuite.php
+    -Wireshark (install WinPCAP as well):                       https://www.wireshark.org/#download
+    -ComputeHash:                                               http://www.subisoft.net/computehash.aspx
+    -ApateDNS                                                   https://www.aldeid.com/wiki/Mandiant-ApateDNS
+    -ExeInfoPE                                                  http://exeinfo.atwebpages.com/
+    -WinRAR                                                     https://www.rarlab.com/download.htm
+    -ProcessHacker                                              https://processhacker.sourceforge.io/downloads.php
+    -SysInternals Suite                                         https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+    
+3.  Download the sample archive at link below, I'll release the .zip password during the workshop (and afterward for anybody interested)
+    as I don't want anybody self-pwning due to working ahead (which is exactly what I'd do :D)
+   
+If you have any troubles with this method or any of these downloads please reach out, I have all of these in hand and can help wherever I can.
+
+Thanks and I look forward to seeing you at CircleCityCon!
+    
