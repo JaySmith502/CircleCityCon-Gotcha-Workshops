@@ -2,7 +2,7 @@ In case you are unable to extract the .ovf (this is a finicky process for sure),
 
 1.  A Windows 7 Virtual Machine (you can get a 90 day trial .iso at modern.ie)
 2.  The following programs installed on your virtual machine, with appropriate paths lined up to execute in your Desktop
-    -PEStudio:                                                  https://winitor.com/binaries.html
+    -PEStudio:                                                  <a>https://winitor.com/binaries.html<a>
     -CFF Explorer (x86 Version, stand-alone, Zip Archive):      http://www.ntcore.com/exsuite.php
     -Wireshark (install WinPCAP as well):                       https://www.wireshark.org/#download
     -ComputeHash:                                               http://www.subisoft.net/computehash.aspx
