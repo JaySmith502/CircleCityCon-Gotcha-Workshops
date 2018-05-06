@@ -17,6 +17,8 @@ The IEUser password to login to Windows is password (because of course it is).
 
 4.  Once you have the Windows 7 Virtual Machine, go ahead and enter through the 'safe mode' error it's been throwing and start Windows normally, then install any updates that show up in the notification center.  
 
+5.  I discovered that I missed loading 'REGSHOT' into the VM, please download it from a stable source, I got a clean copy at www.softpedia.com/get/Tweak/Registry-Tweak/Reg-Shot.shtml.
+
 I'm not going to release the password to the Archive on the desktop until the workshop to ensure nobody self-owns by getting too curious and working ahead (speaking as a notorious self-pwner).
 
 Thank you so much for considering attending this workshop, it means a lot to me and I promise I'll do everything I can to ensure this is a great learning experience for all of us.
