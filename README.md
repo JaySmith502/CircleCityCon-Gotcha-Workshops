@@ -1,6 +1,6 @@
-# CircleCityCon-Gotcha!-Workshops
+# CircleCityCon-Gotcha!-Workshops 2018
 
-Gotcha! Intro to Malware Analysis Workshop
+Gotcha! Intro to Malware Analysis Workshop & Intro to Volatile Memory (RAM) Forensics using Volatility Workshop
 
 I'm really looking forward to these quick and dirty Introductions to Malware Analysis and Volatile (RAM) Memory Forensics, suitable for anybody who's comfortable with Virtual Machines, CLI and has an interest in these InfoSec fields for professional development, knowledge or competing in Malware and Volatility centric CTF's.
 
