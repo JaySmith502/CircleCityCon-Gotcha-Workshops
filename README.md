@@ -2,23 +2,23 @@
 
 Gotcha! Intro to Malware Analysis Workshop
 
-I'm really looking forward to this quick and dirty intro to Malware Analysis suitable for anybody who's comfortable with Virtual Machines, CLI and has an interest in Malware Analysis for professional development, knowledge or competing in Malware centric CTF's.
+I'm really looking forward to these quick and dirty Introductions to Malware Analysis and Volatile (RAM) Memory Forensics, suitable for anybody who's comfortable with Virtual Machines, CLI and has an interest in these InfoSec fields for professional development, knowledge or competing in Malware and Volatility centric CTF's.
 
-1.  Download the three files in the following Dropbox directory into the same directory on your computer.  Be patient, this is a 13GB file and will take a little while to download depending on your bandwidth.
-    https://www.dropbox.com/sh/rl129dhfmpujl8l/AAD02ZBBr2vwn6bPAJTis_J3a?dl=0
+1.  Download the three files in the following OneDrive directory into the same directory on your computer.  Be patient, this is a 6GB file and will take a little while to download depending on your bandwidth.  This will be posted once I get off this freakin' plane, cuz in-flight wifi is awesome, unless you've enabled 2FA everywhere and your cell phone is a puck.
+
+Yay phone tethering!  Here is ze link!:
+https://1drv.ms/f/s!ArXlmtHIhgsAdX2j-uQBlXoqb5U
+  
     
 2.  If you're using VirtualBox, you'll want to choose 'File' then 'Import' and search for the .ovf file in the directory where you dropped the files from Dropbox.  Either of these will take around 20 minutes to create a new VM for you.  
 
 3.  If you're using VMWare on a Windows box, you can likely just double-click the .ovf file and VMWare will create the Virtual Machine for you.  You can also just go through the 'File >> New' path using the .vmdk as well.
 
+4.  All necessary files for both workshops are on this desktop, once you login, it wouldn't be a horrible idea to either clone the VM into two or at least snapshot one so you can revert if you plan on attending both workshops.
+
 If you have any issues please reach out to me prior to CircleCityCon so we can get you ready to go.
 
-The IEUser password to login to Windows is password (because of course it is).
 
-4.  Once you have the Windows 7 Virtual Machine, go ahead and enter through the 'safe mode' error it's been throwing and start Windows normally, then install any updates that show up in the notification center.  
-
-5.  I discovered that I missed loading 'REGSHOT' into the VM, please download it from a stable source, I got a clean copy at www.softpedia.com/get/Tweak/Registry-Tweak/Reg-Shot.shtml.
-
-I'm not going to release the password to the Archive on the desktop until the workshop to ensure nobody self-owns by getting too curious and working ahead (speaking as a notorious self-pwner).
+I'm not going to release the password to the Archives on the desktop until the workshop to ensure nobody self-owns by getting too curious and working ahead (speaking as a notorious self-pwner).
 
 Thank you so much for considering attending this workshop, it means a lot to me and I promise I'll do everything I can to ensure this is a great learning experience for all of us.
