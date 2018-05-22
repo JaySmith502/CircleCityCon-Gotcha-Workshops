@@ -4,11 +4,10 @@ Gotcha! Intro to Malware Analysis Workshop
 
 I'm really looking forward to these quick and dirty Introductions to Malware Analysis and Volatile (RAM) Memory Forensics, suitable for anybody who's comfortable with Virtual Machines, CLI and has an interest in these InfoSec fields for professional development, knowledge or competing in Malware and Volatility centric CTF's.
 
-1.  Download the three files in the following OneDrive directory into the same directory on your computer.  Be patient, this is a 6GB file and will take a little while to download depending on your bandwidth.  This will be posted once I get off this freakin' plane, cuz in-flight wifi is awesome, unless you've enabled 2FA everywhere and your cell phone is a puck.
+1.  Download the three files in the following Google Drive directory into the same directory on your computer.  Be patient, this is a 6GB file and will take a little while to download depending on your bandwidth.  This will be posted once I get off this freakin' plane, cuz in-flight wifi is awesome, unless you've enabled 2FA everywhere and your cell phone is a puck.
 
-Yay phone tethering!  Here is ze link!:
-https://1drv.ms/f/s!ArXlmtHIhgsAdX2j-uQBlXoqb5U
-  
+  And without further ado!
+  https://drive.google.com/open?id=196MIZEhVrkitzxy2_OqK-OiuR4rqkHG1
     
 2.  If you're using VirtualBox, you'll want to choose 'File' then 'Import' and search for the .ovf file in the directory where you dropped the files from Dropbox.  Either of these will take around 20 minutes to create a new VM for you.  
 
