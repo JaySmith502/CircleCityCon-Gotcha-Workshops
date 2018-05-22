@@ -1,4 +1,4 @@
-# CircleCityCon-Malware-Analysis-Intro-Workshop
+# CircleCityCon-Gotcha!-Workshops
 
 Gotcha! Intro to Malware Analysis Workshop
 
@@ -19,6 +19,6 @@ https://1drv.ms/f/s!ArXlmtHIhgsAdX2j-uQBlXoqb5U
 If you have any issues please reach out to me prior to CircleCityCon so we can get you ready to go.
 
 
-I'm not going to release the password to the Archives on the desktop until the workshop to ensure nobody self-owns by getting too curious and working ahead (speaking as a notorious self-pwner).
+I'm not going to release the password to the Archives on the desktop until the workshop to ensure nobody self-pwns by getting too curious and working ahead (speaking as a notorious self-pwner).
 
-Thank you so much for considering attending this workshop, it means a lot to me and I promise I'll do everything I can to ensure this is a great learning experience for all of us.
+Thank you so much for attending these workshops, it means a lot to me and I promise I'll do everything I can to ensure this is a great learning experience for all of us.
